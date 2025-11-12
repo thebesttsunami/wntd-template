@@ -1,0 +1,2 @@
+# MOST WANTED WEBSITE TEMPLATE
+* For education *
