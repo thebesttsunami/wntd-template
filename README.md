@@ -1,2 +1,2 @@
-# MOST WANTED WEBSITE TEMPLATE
-* For education *
+ # Wanted template
+ ```Wanted template for education```
